@@ -21,17 +21,7 @@ setup(
         "Programming Language :: Python :: 3.11",
     ],
     python_requires=">=3.9",
-    install_requires=[
-        "eth-ape",
-        "ape-alchemy",
-        "ape-solidity",
-        "ape-foundry",
-        "ape-etherscan",
-        "pyscaffold",
-        "cryptography",
-        "coverage-enable-subprocess",
-        "pytest-cov",
-    ],
+    install_requires=["eth-ape", "ape-alchemy", "ape-solidity", "ape-foundry", "ape-etherscan"],
     extras_require={
         "test": [
             "pytest",

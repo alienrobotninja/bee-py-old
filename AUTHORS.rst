@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* SAIKAT KARMAKAR <saikickkarma@gmail.com>
+* SAIKAT KARMAKAR <saikickkarma@protonmail.com>
